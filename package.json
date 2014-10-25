@@ -1,0 +1,27 @@
+{
+  "name": "longjohn-async-test",
+  "version": "0.1.0",
+  "description": "Test an issue with async.series and longjohn",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boutell/longjohn-async-test"
+  },
+  "keywords": [
+    "longjohn",
+    "async"
+  ],
+  "author": "Thomas Boutell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boutell/longjohn-async-test/issues"
+  },
+  "homepage": "https://github.com/boutell/longjohn-async-test",
+  "dependencies": {
+    "async": "^0.9.0",
+    "longjohn": "^0.2.4"
+  }
+}
